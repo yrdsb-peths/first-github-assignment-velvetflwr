@@ -2,7 +2,7 @@ public class ArianaGrande
   {
     int grammys
 
-    public String ArianaGrande(int grammys)
+    public class ArianaGrande(int grammys)
     {
       this.grammys = grammys
         }
